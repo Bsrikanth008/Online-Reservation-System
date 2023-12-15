@@ -10,7 +10,7 @@ public class ReservationSystem {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        // Add some sample user credentials and reservations
+        //some sample user credentials and reservations
         userCredentials.put("john123", "password");
         userCredentials.put("alice456", "pass123");
         reservations.put("john123", "Reservation 1");
